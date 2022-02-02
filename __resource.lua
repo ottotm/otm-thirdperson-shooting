@@ -7,8 +7,8 @@ client_scripts {
 } 
 
 files {
-    'html/index.html',
-    'html/style.css',
-    'html/reset.css',
-    'html/listener.js'
+    'index.html',
+    'style.css',
+    'reset.css',
+    'listener.js'
 }
