@@ -2,7 +2,10 @@
 
 Thirdperson shooting with crosshair and realistic gunplay. Crosshair is customzible from style.css.
 
-You can use this in your own server without asking permissions.
+You can use this in your own server without asking permissions. This is optimized.
+Idle 0.02 - 0.03ms: ![image](https://user-images.githubusercontent.com/75931482/152242637-689c286a-9d67-48b3-8780-7eaad192f140.png)
+Aiming 0.03 - 0.05ms: ![image](https://user-images.githubusercontent.com/75931482/152242722-c87dc735-e898-4997-a0f7-27df16730ec2.png)
+
 
 Install: 
 
@@ -12,4 +15,6 @@ Install:
 and enjoy.
 
 # Example video
-https://images-ext-1.discordapp.net/external/lafxOo7Zs5p6K6SbpLaDyOnN9kRS6FY9RgH1hR_hGu4/https/i.imgur.com/qA6gFpn.mp4
+
+https://user-images.githubusercontent.com/75931482/152242377-8475bf02-1aaf-4883-ac5e-9f6ea5e3272c.mp4
+
