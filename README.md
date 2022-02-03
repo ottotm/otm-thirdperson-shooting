@@ -13,7 +13,7 @@ While aim 0.03 - 0.05ms: ![image](https://user-images.githubusercontent.com/7593
 Install: 
 
 1. Download this.
-2. Add start otm_thirdperson_shooting
+2. Add start otm_thirdperson_shooting in your server.cfg
 
 and enjoy.
 
