@@ -2,7 +2,7 @@
 
 Thirdperson shooting with crosshair and realistic gunplay. Crosshair is customzible from style.css.
 
-You can use this in your own server without asking permissions. This is optimized.
+You can use this on your own server without asking permissions. 
 
 
 
